@@ -1,50 +1,24 @@
 # CodeAlpha_to_do_list
-# To-Do List Web Application
+# Todo List
 
-Welcome to the To-Do List web application project! This application is designed to help you organize and manage your tasks efficiently.
-
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-
-## Project Description
-
-The To-Do List web application is a simple, user-friendly tool to help you keep track of your tasks and stay organized. Whether you need to manage work-related projects or simply remember your daily chores, this application has you covered.
+Welcome to the Todo List project! This web application allows you to manage your tasks effectively. You can add new tasks, remove completed tasks, and keep track of the number of tasks to be completed.
 
 ## Features
 
-- *Task Management:* Add, edit, mark as complete, or delete tasks with ease.
-
-- *Task Prioritization:* Assign priority levels to your tasks to help you focus on what's important.
-
-- *Due Dates:* Set due dates for tasks to ensure you stay on top of deadlines.
-
-- *Categories:* Categorize your tasks for better organization.
-
-- *Search and Filter:* Search for specific tasks or filter tasks based on categories or completion status.
-
-- *Data Persistence:* Your tasks are saved, so you won't lose them even if you close the application.
-
-## Technologies Used
-
-- *HTML:* Provides the structure and user interface elements of the application.
-
-- *CSS:* Styles the application for a visually appealing layout.
-
-- *JavaScript:* Implements the task management logic and user interactions.
+- *Task Management:* Add and remove tasks effortlessly.
+- *Task Count:* View the number of tasks to be completed in real-time.
+- *Intuitive Interface:* User-friendly design for easy task management.
+- *Data Persistence:* Your tasks are saved, ensuring you don't lose your data even after a page refresh.
+  
 
 ## How to Use
 
-1. *Access the Application:* Open the [To-Do List Web Application]
-2. *Add Tasks:* Use the input field at the top to add new tasks. You can also set priority levels and due dates.
+1. *Add a Task:* Type your task in the input field and press Enter or click the "Add" button to add it to the list.
+2. *Remove a Task:* Click the delete button (trash bin icon) next to a task to remove it from the list.
+3. *Task Count:* The number of tasks to be completed is displayed at the top of the list.
+  
+## Technologies Used
 
-3. *Manage Tasks:* Edit, mark as complete, or delete tasks as needed.
-
-4. *Organize:* Categorize tasks to keep them well-organized.
-
-5. *Search and Filter:* Utilize the search and filter features to quickly find specific tasks.
-
-6. *Data Persistence:* Your tasks are automatically saved and will be available the next time you use the application.
+- *HTML:* Used for creating the structure of the todo list.
+- *CSS:* Styled the todo list for an appealing user interface.
+- *JavaScript:* Implemented task management logic and interactivity features.
